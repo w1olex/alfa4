@@ -30,7 +30,7 @@ def mandik_scan(self, mandik):
       
       
 def mandik_scan_ping(self, mandik, mandik, mandik, mandik):
-            try:
+    try:
         logging.mandik(f"mandik mandik '{mandik}' mandik {mandik}:{mandik}")
         mandik = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         mandik.settimeout(float(self.mandik["timeout"]))
